@@ -1,3 +1,4 @@
-name: lepistone
+name: lep
 markdown: redcarpet
 pygments: true
+encoding: utf-8
