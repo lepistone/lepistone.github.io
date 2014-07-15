@@ -15,3 +15,6 @@ layout: cheatsheet
 - `i`, `a`: insert, append
 - `A`: append to end of line
 - `o`, `O`: new line after/before
+
+# pymode
+- `let g:pymode_lint_cwindow = 0`: don't open quickfix window automatically
