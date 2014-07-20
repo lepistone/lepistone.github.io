@@ -1,52 +1,23 @@
-/*****************************************************************************/
-/*
-/* Common
-/*
-/*****************************************************************************/
-
 body {
   background-color: white;
   font-family: sans-serif;
-  /* text-align: center; */
 }
 
-/* h1, h2, h3, h4, h5, h6 { */
-/*   font-size: 100%; */ 
-/* } */
-
-
-/* h1 { margin-bottom: 1em; } */
-/* p { margin: 1em 0; } */
-
-a         { color: #00a; }
-a:hover   { color: #000; }
-a:visited { color: #a0a; }
-
-/*****************************************************************************/
-/*
-/* Home
-/*
-/*****************************************************************************/
 .posts {
-  list-style-type: none;
+  list-style-type: none;   /* no dots */
   margin-bottom: 2em;
 }
 
-.posts li {
-  line-height: 1.75em;
+.posts-date {
+  color: grey;
+  font-family: monospace;
 }
 
-.posts span {
-  color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
-  font-size: 80%;
+.post code {
+  border: 1px solid lightgrey;
+  background-color: aliceblue;
+  padding: 0 .2em;  /* larger boxes */
 }
-
-/*****************************************************************************/
-/*
-/* Site
-/*
-/*****************************************************************************/
 
 .site {
   width: 42em;
@@ -56,12 +27,13 @@ a:visited { color: #a0a; }
 
 .header a {
   font-weight: bold;
-  text-decoration: none;
+  text-decoration: none;  /* no underline */
 }
 
 .title {
   display: inline-block;
   margin-bottom: 2em;
+  color: black;
 }
 
 .title a {
@@ -102,8 +74,3 @@ a:visited { color: #a0a; }
   color: navy;
 }
 
-.post code {
-  border: 1px solid lightgrey;
-  background-color: aliceblue;
-  padding: 0 .2em;  /* larger boxes */
-}
