@@ -2,14 +2,26 @@
 title: vim
 layout: cheatsheet
 ---
-# motions
+## motion
+
+### operator
+- `c` change
+- `d` delete
+- `y` yank
+- `<` `>` shift
+
+### horizontal
 - `h`, `j`, `k`, `l`: single steps
-- `w`, `e`, `b`, `ge`: forward/back start/end of word
-- `W`, `E`, `B`, `gE`: same for WORD
 - `f`, `t`: find in line (till)
 - `F`, `T`: backwards
 - `;`, `,`: repeat (backwards)
+- `gj`, `gk`: up/down display lines
+- `w`, `e`, `b`, `ge`: forward/back start/end of word
+- `W`, `E`, `B`, `gE`: same for WORD
+
+## pattern
 - `/`, `?`: search (backwards)
+
 
 # insert
 - `i`, `a`: insert, append
