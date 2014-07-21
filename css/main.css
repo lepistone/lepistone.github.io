@@ -4,26 +4,19 @@
 /*
 /*****************************************************************************/
 
-/* Global Reset */
-* {
-  margin: 0;
-  padding: 0;
-}
-
-html, body { height: 100%; }
-
 body {
-  background-color: #FFF;
-  font: 13.34px Helvetica, Arial, sans-serif;
-  font-size: small;
-  text-align: center;
+  background-color: white;
+  font-family: sans-serif;
+  /* text-align: center; */
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
+/* h1, h2, h3, h4, h5, h6 { */
+/*   font-size: 100%; */ 
+/* } */
 
-h1 { margin-bottom: 1em; }
-p { margin: 1em 0; }
+
+/* h1 { margin-bottom: 1em; } */
+/* p { margin: 1em 0; } */
 
 a         { color: #00a; }
 a:hover   { color: #000; }
@@ -56,8 +49,6 @@ a:visited { color: #a0a; }
 /*****************************************************************************/
 
 .site {
-  font-size: 115%;
-  text-align: justify;
   width: 42em;
   margin: 3em auto 2em;
   line-height: 1.5em;
@@ -74,20 +65,20 @@ a:visited { color: #a0a; }
 }
 
 .title a {
-  color: #a00;
+  color: brown;
 }
 
 .title a:hover {
-  color: #000;
+  color: black;
 }
 
 .header a.extra {
-  color: #aaa;
+  color: grey;
   margin-left: 1em;
 }
 
 .header a.extra:hover {
-  color: #000;
+  color: black;
 }
 
 .meta {
@@ -96,7 +87,7 @@ a:visited { color: #a0a; }
 
 .footer {
   font-size: 80%;
-  color: #666;
+  color: grey;
   border-top: 4px solid #eee;
   margin-top: 2em;
   overflow: hidden;
@@ -108,53 +99,11 @@ a:visited { color: #a0a; }
 }
 
 .footer .contact a {
-  color: #8085C1;
-}
-
-.footer .rss {
-  margin-top: 1.1em;
-  margin-right: -.2em;
-  float: right;
-}
-
-.footer .rss img {
-  border: 0;
-}
-
-/*****************************************************************************/
-/*
-/* Posts
-/*
-/*****************************************************************************/
-
-/* standard */
-.post pre {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .4em;
-}
-
-.post ul, .post ol {
-  margin-left: 1.35em;
+  color: navy;
 }
 
 .post code {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .2em;
-}
-
-.post pre code {
-  border: none;
-}
-
-/* terminal */
-.post pre.terminal {
-  border: 1px solid #000;
-  background-color: #333;
-  color: #FFF;
-}
-
-.post pre.terminal code {
-  background-color: #333;
+  border: 1px solid lightgrey;
+  background-color: aliceblue;
+  padding: 0 .2em;  /* larger boxes */
 }
