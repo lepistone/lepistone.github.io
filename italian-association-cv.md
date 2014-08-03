@@ -2,7 +2,7 @@
 title: Candidatura Associazione Italiana
 layout: page
 ---
-# Curriculum
+## Curriculum
 
 Mi occupo a tempo pieno di OpenERP / Odoo dal 2010. Sono principalmente un programmatore, ma mi sono occupato anche di altro, come analisi, supporto, e formazione (ho tenuto 5 corsi di una settimana l'uno).
 
@@ -16,13 +16,13 @@ Grazie a questo impegno, faccio parte del gruppo dei Community Mantainers dell'O
 
 All'OpenERP Italia Day dell'anno scorso ho tenuto un talk su come contribuire su Launchpad. In una giornata che è stata tesa, ho fatto il possibile per mostrare un esempio reale di due persone di due aziende concorrenti che sono riuscite, unendo i loro sforzi, a fare di più di quanto ciascuno, da solo, avrebbe potuto fare.
 
-# Posizioni generali
+## Posizioni generali
 
 Partecipando attivamente alle attività dell'OCA, ho molto apprezzato lo stile e i risultati che sono stati raggiunti. In particolare, a partire dalla situazione di qualche anno fa di un mare di moduli di qualità variabile, con molta duplicazione e molte incompatibilità, si è arrivati ad avere un nucleo di moduli ben fatti, ben documentati e sottoposti a code review, con un gruppo abituale di persone affiatato e molto produttivo. 
 
 L'ambiente in cui lavoro ogni giorno nella community internazionale è pragmatico, efficace e non inquinato da continue lotte per chissà cosa. Sono convinto che ci sia spazio per tutti senza avere paura che i concorrenti "rubino il mercato". Questo è vero dove ci sono tante aziende nel mercato, come ad esempio in Francia e in Svizzera, e ancora di più in Italia.
 
-# Posizioni specifiche sull'Associazione Italiana
+## Posizioni specifiche sull'Associazione Italiana
 
 - L'Associazione deve promuovere il prodotto. In particolare, screditare il prodotto OpenERP in un evento organizzato per promuoverlo come quello dell'anno scorso a Prato per fare pubblicità a un'azienda a discapito delle altre non deve più accadere.
 
