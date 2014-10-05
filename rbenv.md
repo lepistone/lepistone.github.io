@@ -2,6 +2,9 @@
 title: rbenv & pyenv
 layout: cheatsheet
 ---
+`rbenv` is a tool for managing different ruby versions. `pyenv` is a python
+fork. Usage is more or less the same for the two.
+
 ## install
 - install `libreadline-dev`, `libsqlite3-dev`, `libbz2-dev`
 - `pyenv install -l`
