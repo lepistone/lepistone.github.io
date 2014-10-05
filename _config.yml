@@ -1,4 +1,4 @@
 name: lep
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 encoding: utf-8
