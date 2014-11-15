@@ -55,6 +55,8 @@ layout: cheatsheet
 ### various-motions
 - `H`, `M`, `L`: Home, Middle, Last line of window
 
+## scroll.txt
+- `zz`: center current line
 
 ## insert.txt
 - `i`, `a`: insert, append
