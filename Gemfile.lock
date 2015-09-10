@@ -105,7 +105,6 @@ GEM
     parslet (1.5.0)
       blankslate (~> 2.0)
     posix-spawn (0.3.11)
-    psych (2.0.5)
     public_suffix (1.5.1)
     pygments.rb (0.6.3)
       posix-spawn (~> 0.3.6)
@@ -134,7 +133,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  psych (= 2.0.5)
 
 BUNDLED WITH
    1.10.6
