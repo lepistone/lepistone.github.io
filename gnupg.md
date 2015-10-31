@@ -4,7 +4,16 @@ layout: cheatsheet
 ---
 # sign
 - `gpg2 -ba [-u keyname] clear.txt` generate detached armored signature
-- `gpg2 --verify [other.clear.txt] clear.txt.asc`
+- `gpg2 --verify [other.clear.txt] clear.txt.asc` by default, finds cleartext
+  file removing `.asc`
+
+# manage private keys
+This is for gnupg 2.1 only.
+- `gpg2 --delete-secret-keys`
+- `gpg2 --delete-secret-and-public-keys`
+- `gpg2 -K --with-keygrip` and then deleting files in `private-keys-v1.d` is
+  needed in some scenarios (strip a single subkey, or delete a card-based key)
+- import keystubs from a card
 
 # --edit-key
 
