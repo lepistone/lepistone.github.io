@@ -13,7 +13,11 @@ This is for gnupg 2.1 only.
 - `gpg2 --delete-secret-and-public-keys`
 - `gpg2 -K --with-keygrip` and then deleting files in `private-keys-v1.d` is
   needed in some scenarios (strip a single subkey, or delete a card-based key)
-- import keystubs from a card
+
+# get keystubs from a card
+- fetch public key from a keyserver
+- `gpg2 --card-edit`
+- `gpg2 --edit-key`, `delkey` delete stripped subkeys which are not in the card
 
 # --edit-key
 
