@@ -39,3 +39,7 @@ packages. Every project will have its own virtualenv.
 ## postgres
 - `sudo -u postgres createuser -s $USER`
 - `createdb $USER`
+
+## video
+Compute the correct dpi, and
+- `randr --dpi 9`
