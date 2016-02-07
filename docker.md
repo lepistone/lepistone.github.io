@@ -5,9 +5,9 @@ layout: cheatsheet
 ## docker machine
 - `alias doma=docker-machine`
 - `doma ls`
-- `doma create MACHINE`
-- `doma start MACHINE`
-- `eval $(doma env MACHINE)`
+- `doma create default`
+- `doma start`
+- `eval $(doma env)`
 
 ## docker
 - `docker exec` execute command in running container
