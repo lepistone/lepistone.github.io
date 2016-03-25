@@ -1,5 +1,5 @@
 ---
-title: ubuntu
+title: debian/ubuntu
 layout: cheatsheet
 ---
 ## upgrade
@@ -28,6 +28,9 @@ layout: cheatsheet
 - libsasl2-dev
 - libldap-dev
 - libjpeg-dev
+
+## unattended upgrades
+- `apt-get install unattended-upgrades`
 
 ## python
 Use the python executable provided by ubuntu, but use pip to manage python
