@@ -30,6 +30,7 @@ layout: cheatsheet
 - `gj`, `gk`: up/down display lines
 - `G`: go to `[count]` (default last) line
 - `gg`: go to first line
+- `go`: go to `[count]` byte
 
 ### word-motions
 - `w`, `e`, `b`, `ge`: forward/back start/end of word
