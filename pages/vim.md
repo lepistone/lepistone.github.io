@@ -1,6 +1,5 @@
 ---
 title: vim
-layout: cheatsheet
 ---
 ## motion.txt
 

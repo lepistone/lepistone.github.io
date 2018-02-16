@@ -1,6 +1,5 @@
 ---
 title: jekyll
-layout: cheatsheet
 ---
 
 ## github pages setup

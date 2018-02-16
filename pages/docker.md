@@ -1,6 +1,5 @@
 ---
 title: docker
-layout: cheatsheet
 ---
 ## docker machine
 - `alias doma=docker-machine`

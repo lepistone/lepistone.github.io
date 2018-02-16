@@ -1,6 +1,5 @@
 ---
 title: gnupg
-layout: cheatsheet
 ---
 # sign
 - `gpg2 -ba [-u keyname] clear.txt` generate detached armored signature

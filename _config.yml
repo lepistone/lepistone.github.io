@@ -1,4 +1,11 @@
-name: lep
+title: Leo's home
+email: leonardo@pistone.me
+description: >-
+  This is Leo's home.
+baseurl: ""
+url: ""
+twitter_username: lepistone
+github_username: lepistone
+
 markdown: kramdown
-highlighter: rouge
-encoding: utf-8
+theme: minima

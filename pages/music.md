@@ -1,6 +1,5 @@
 ---
 title: music
-layout: cheatsheet
 ---
 ## cdparanoia
 - `cdparanoia -B` rip one `wav` per track

@@ -1,6 +1,5 @@
 ---
 title: vagrant
-layout: cheatsheet
 ---
 ## install
 - mac: `brew cask install vagrant`

@@ -1,6 +1,5 @@
 ---
 title: odoo
-layout: cheatsheet
 ---
 ## docs
 - [https://odoo.com/documentation/8.0](https://odoo.com/documentation/8.0) (8.0+)

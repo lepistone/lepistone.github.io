@@ -1,6 +1,5 @@
 ---
 title: ruby
-layout: cheatsheet
 ---
 
 ## bundler

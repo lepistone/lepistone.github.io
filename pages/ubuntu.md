@@ -1,6 +1,5 @@
 ---
 title: debian/ubuntu
-layout: cheatsheet
 ---
 ## upgrade
 - `apt-get update`

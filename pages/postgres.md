@@ -1,6 +1,5 @@
 ---
 title: postgres
-layout: cheatsheet
 ---
 ## docs
 - online: [online](http://www.postgresql.org/docs/9.4/static/index.html)
