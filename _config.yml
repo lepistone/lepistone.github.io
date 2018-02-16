@@ -8,4 +8,4 @@ twitter_username: lepistone
 github_username: lepistone
 
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman
