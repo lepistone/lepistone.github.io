@@ -1,7 +1,15 @@
 ---
 title: vim
 ---
+## editing.txt
+- `^^` edit the alternate file
+
 ## motion.txt
+
+
+
+
+
 
 ### operator
 - `c` change
@@ -65,6 +73,36 @@ title: vim
 
 ## pattern.txt
 - `/`, `?`: search (backwards)
+
+## windows.txt
+
+### 1. windows-intro
+Buffers can be active, hidden or inactive.
+
+### 2. windows-starting
+- `vim -o file1 file2` open in split
+- `-O` vertical split
+- `'laststatus'= 1` statusline only if there is more than one window
+
+### 3. opening-window
+- `^W s` or `:sp` split in two
+- `^W v`or `^W ^V`  or `:vs` split vertically
+- `^W n` or  `^W ^N` or `:new` new empty window
+- `:vne[w]` vertical
+- `:sv[iew]` split and view
+- `:sf[ind]` split and `:find` in `'path'`
+- `^W ^^` or `^W ^` `:split` and `^^` the alternate file
+
+### 4. window-move-cursor
+### 5. window-moving
+### 6. window-resize
+### 7. buffer-list
+### 8. list-repeat
+### 9. window-tag
+### 10. preview-window
+### 11. buffer-hidden
+### 12. special-buffers
+
 
 ## pymode.txt
 - `let g:pymode_lint_cwindow = 0`: don't open quickfix window automatically
