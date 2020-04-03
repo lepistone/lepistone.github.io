@@ -22,4 +22,6 @@ Towards the end of my time in France, even though I was still working with Odoo,
 
 Since I am at Spotify, my work has been much more diverse. I have been exposed to way more systems, colleagues and teams. I learnt more about the business as well. I learned from my colleagues through pairing, mobbing, code review and discussions over coffee. My learning has been broader, more intense, more personal, but less deep.
 
-Still, personal deep dives, hacks, technical books are fantastic. What I would like is a way to piece it all together. In other words, I would like to have some form of deliverable after some time spent learning or hacking on something. Blogposts and talks could be such a thing.
+Still, personal deep dives, hacks, technical books are fantastic. What I would like is a way to piece it all together. In other words, I would like to have some form of deliverable after some time spent learning or hacking on something.
+
+A blog could be such a thing.
