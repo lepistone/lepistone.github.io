@@ -9,5 +9,13 @@ In my case, a simplified version of the setup in the `util/macos_install.sh` scr
 brew tap osx-cross/avr
 brew tap PX4/homebrew-px4
 brew update
-brew install avr-gcc gcc-arm-none-eabi dfu-utilbrew tap osx-cross/avr
+brew install avr-gcc gcc-arm-none-eabi dfu-util
+```
+
+## build and flash
+Here's how I build and flash:
+
+```bash
+make planck/rev6:lepistone:dfu-util
+make ergodox_ez:lepistone:teensy
 ```
