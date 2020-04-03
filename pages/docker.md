@@ -1,13 +1,6 @@
 ---
 title: docker
 ---
-## docker machine
-- `alias doma=docker-machine`
-- `doma ls`
-- `doma create default`
-- `doma start`
-- `eval $(doma env)`
-
 ## docker
 - `docker exec` execute command in running container
 - `docker images` list images
